@@ -17,3 +17,8 @@
 
 - Right click: Open and closes the menu to buy towers.
 - Left click: Buy/place the towers. 
+
+## Assets
+
+All assets used in this game were obtained from Kenney.
+https://www.kenney.nl/
